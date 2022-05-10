@@ -1,4 +1,5 @@
 <?php
+    //change values before using this form
     $host = "localhost";
     $user = "mysqluser";
     $password = "";
