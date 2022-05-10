@@ -1,4 +1,6 @@
 <?php
+    //Disclaimer: made by john doe
+
     //change values before using this form
     $host = "localhost";
     $user = "mysqluser";
