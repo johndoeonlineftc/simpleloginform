@@ -3,8 +3,8 @@
 
     //change values before using this form
     $host = "localhost";
-    $user = "mysqluser";
-    $password = "";
+    $user = "johan";
+    $password = "icecream";
     $db_name = "events";
 
     // connect with db and credentials
